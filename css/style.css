@@ -1,0 +1,48 @@
+.conteiner{
+    background-color: violet;
+    border-radius: 60px;
+    width:900px;
+    height: 600px;
+    margin-left: 150px;
+}
+
+.linha1{
+    display: flex;
+}
+
+.texto1{
+    padding-left: 80px;
+    padding-top: 45px;
+}
+.texto2{
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 100px;
+}
+
+.imagem1{
+   
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-bottom: 30px;
+
+}
+
+.texto3{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+}
+.imagemdecodigo{
+  margin-right: 100px;
+   width: 740px;
+   margin-left: 110px;
+   height: 145px;
+   margin-top: 20px;
+   
+}
+.imagemmulher{
+    border: 40px solid pink;
+    border-radius: 40px;
+}
